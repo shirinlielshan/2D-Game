@@ -7,9 +7,6 @@ A simple 2D game built in Java.
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Game Controls](#game-controls)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
